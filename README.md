@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://0xsurya.tk**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://0xsurya.tk)**
 
 - 📫 How to reach me **surya98613@gmail.com**
 
