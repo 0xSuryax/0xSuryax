@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://coronatracker.cf)**
 
-- 🌱 I’m currently learning **Jafascript and it's library's.**
+- 🌱 I’m currently learning **Javascript and it's library's.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
