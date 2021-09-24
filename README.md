@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm 0xSurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xsuryax&label=Profile%20views&color=0e75b6&style=flat" alt="0xsuryax" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xsuryax" alt="0xsuryax" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript and it's frameworks**
 
 - 📫 How to reach me **surya98613@gmail.com**
@@ -21,5 +17,3 @@
 <p><a href="https://www.buymeacoffee.com/0xsurya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0xsurya" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xsuryax&show_icons=true&locale=en" alt="0xsuryax" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xsuryax&" alt="0xsuryax" /></p>
