@@ -35,7 +35,7 @@
     <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="45" height="45"/> </a> 
     <a href="https://redis.io/" target="_blank"> <img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg?auto=webp&quality=85,75&width=120" alt="Redis" width="45" height="45"/> </a>
-    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://kafka.apache.org/logos/kafka_logo--simple.png" alt="Kafka" width="117" height="45"/> </a>
+    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://kafka.apache.org/logos/kafka_logo--simple.png" alt="Kafka" width="45" height="45"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
