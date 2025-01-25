@@ -1,77 +1,55 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+# 👋 Hi there, I'm Surya Narayan Nayak  
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 0xSurya</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+I'm a **Full Stack Engineer** and a **Reverse Engineering Enthusiast**.  
+Currently, I serve as the **Tech Lead** for **[Golden Fox Technology](https://goldenfoxtechnology.com/)**, where we're redefining the future of transportation tech. 🚖✨  
 
+---
 
-## 🙋‍♂️ About Me
+## 🌟 About Me  
+- 💻 Passionate about coding and solving complex problems.  
+- 🕵️‍♂️ I enjoy exploring the internals of software through reverse engineering.  
+- 🌱 Always learning and growing with every line of code.  
 
-- 🔭 I’m currently working on **[Golden Fox Technology](#)**
+---
 
-- 🌱 I’m currently learning **Javascript and it's library's.**
+## 🛠️ Tech Stack  
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+### **Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)  
+![Assembly](https://img.shields.io/badge/-Assembly-007ACC?style=flat)  
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://0xsurya.tk)**
+### **Frameworks, Libraries & Tools**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=flat)  
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)  
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)  
+![Uber H3](https://img.shields.io/badge/-Uber_H3-000000?logo=uber&logoColor=white&style=flat)  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat)  
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white&style=flat)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)  
 
-- 📫 How to reach me **surya98613@gmail.com**
+### **Reverse Engineering Tools**  
+![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-000000?style=flat)  
+![DNSPY](https://img.shields.io/badge/-DNSPY-FF4500?style=flat)  
 
-- ⚡ Fun fact **I play games**
+---
 
-## 🚀 Languages and Tools:
+## 📬 Get in Touch  
+📧 Email: [surya98613@gmail.com](mailto:surya98613@gmail.com)  
 
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="45" height="45"/> </a> 
-    <a href="https://redis.io/" target="_blank"> <img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg?auto=webp&quality=85,75&width=120" alt="Redis" width="45" height="45"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+Feel free to connect and discuss tech, reverse engineering, or collaborate on innovative projects!  
+🚀 Let's build something amazing together.  
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/0xSuryax/github-readme-stats"><img alt="0xSuryax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xSuryax&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/0xSuryax/github-readme-stats"><img alt="0xSuryax's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSuryax&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/0xSuryax/"><img alt="0xSuryax Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0xSuryax&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
-<a href = "/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/0xSuryax/">
-    <img src="https://komarev.com/ghpvc/?username=0xSuryax">
-</a>
-
+--- 
