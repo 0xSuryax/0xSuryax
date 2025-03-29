@@ -47,7 +47,7 @@ Currently, I serve as the **Tech Lead** for **[Golden Fox Technology](https://go
 ---
 
 ## 📬 Get in Touch  
-📧 Email: [surya98613@gmail.com](mailto:surya98613@gmail.com)  
+📧 Email: [0xSuryax@protonmail.com](mailto:0xSuryax@protonmail.com)  
 
 Feel free to connect and discuss tech, reverse engineering, or collaborate on innovative projects!  
 🚀 Let's build something amazing together.  
